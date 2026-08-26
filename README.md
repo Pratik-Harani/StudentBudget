@@ -30,8 +30,7 @@ python3 main.py
 ```
 
 # Acknowledgements
-Made as a team project with 3 other contributors.  I modelled user requirements into an OOP abstraction, built the Controller that communicates between the back-end and front-end, and developed the onboarding & data persistence logic. 
-
+Made as a team project.
 
 
 
